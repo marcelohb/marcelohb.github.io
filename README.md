@@ -17,7 +17,9 @@ Lisboa, Lisboa, Portugal
 
 - Liderança técnica 
 - Liderança em TI 
-- Groovy 
+- Java Spring Boot
+- Oracle
+- Microserviços
 
 ---
 
@@ -29,17 +31,17 @@ Lisboa, Lisboa, Portugal
 
 ## Certificações 
 
-- Orientação a Objetos com Java 
-- Cordova 
-- SCRUM Foundation Professional Certificate (SFPC) 
-- Docker: Criando containers sem dor de cabeça - 8 horas 
-- Princípios de Desenvolvimento Ágil de Software 
+- Orientação a Objetos com Java
+- Docker: Criando containers sem dor de cabeça
+- Princípios de Desenvolvimento Ágil de Software
+- SCRUM Foundation Professional Certificate (SFPC)
+- KMP I e II 
 
 ---
 
 ## Resumo 
 
-Como muitos, o início foi em um estágio onde fui efetivado depois de alguns meses, que considero ser a minha primeira escola, com a oportunidade de conhecer pessoas incríveis que ajudaram na minha formação profissional.  Em todas as empresas por onde passei, aprendi coisas novas muito importantes para o meu crescimento profissional e amadurecimento pessoal.  Sigo em constante aprendizado e carrego os valores de **TRANSPARÊNCIA** e **HUMILDADE** por onde passo. 
+Como muitos, o início foi num estágio onde fui efetivado após alguns meses, que considero ser a minha primeira escola, com a oportunidade de conhecer pessoas incríveis que ajudaram na minha formação profissional.  Em todas as empresas por onde passei, aprendi coisas novas muito importantes para o meu crescimento profissional e amadurecimento pessoal.  Sigo em constante aprendizado e carrego os valores de **TRANSPARÊNCIA** e **HUMILDADE** por onde passo. 
 
 Hoje tenho a oportunidade de transmitir um pouco dos meus conhecimentos para recém-formados, o que faço com enorme prazer, seguindo o lema: “Seja para alguém, o super herói que você queria ser”.  Gosto de compartilhar conhecimento e contribuir para que o ambiente de trabalho seja o mais agradável possível, sempre com um sorriso no rosto e em busca de resultados. 
 
@@ -157,9 +159,3 @@ Bancos de dados:
 - Centro Universitário Claretiano – Bacharel em Sistemas de Informação, 2008 - 2011 
 - Ateneu Barão de Mauá – Ensino Médio completo, 2002 - 2004 
 - CNA – Inglês Avançado, 2010 - 2012 
-
----
-
-## Sobre este README
-
-Este arquivo foi gerado a partir das informações do perfil em PDF, reorganizadas em formato de README para uso em portfólio ou GitHub. 
