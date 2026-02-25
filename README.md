@@ -1,5 +1,3 @@
-# Marcelo Battaglion
-
 **Tech Lead - ACT Digital**  
 Lisboa, Lisboa, Portugal 
 
@@ -9,7 +7,7 @@ Lisboa, Lisboa, Portugal
 
 - Telefone: 911918449 (Mobile) 
 - Email: marcelobattaglion@hotmail.com 
-- LinkedIn: https://www.linkedin.com/in/marcelobattaglion 
+- LinkedIn: [https://www.linkedin.com/in/marcelobattaglion] (https://www.linkedin.com/in/marcelobattaglion) 
 
 ---
 
@@ -49,7 +47,7 @@ Hoje tenho a oportunidade de transmitir um pouco dos meus conhecimentos para rec
 
 ## Experiência Profissional 
 
-### act digital EMEA - Alter Solutions (4 anos 10 meses) 
+### act digital EMEA - Alter Solutions (atual) 
 
 #### Líder Técnico (março de 2022 - presente) – Lisboa e região 
 
@@ -84,7 +82,7 @@ Hoje tenho a oportunidade de transmitir um pouco dos meus conhecimentos para rec
 
 #### Java Software Developer (junho de 2018 - maio de 2021, 3 anos) – Ribeirão Preto e região, Brasil 
 
-- Desenvolvimento de soluções back-end em Java (detalhamento em stack abaixo, na experiência Beblue). 
+- Desenvolvimento de soluções backend em Java 
 
 ---
 
