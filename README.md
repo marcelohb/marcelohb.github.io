@@ -1,13 +1,13 @@
 **Tech Lead - ACT Digital**  
-Lisboa, Lisboa, Portugal
+Lisboa, Portugal
 
 ---
 
 ## Contato
 
-- Telefone: 911918449 (Mobile)
+- Telefone: (+351) 911 918 449 (Mobile)
 - Email: marcelobattaglion@hotmail.com
-- LinkedIn: [https://www.linkedin.com/in/marcelobattaglion] (https://www.linkedin.com/in/marcelobattaglion)
+- LinkedIn: [https://www.linkedin.com/in/marcelobattaglion](https://www.linkedin.com/in/marcelobattaglion)
 
 ---
 
@@ -23,29 +23,33 @@ Lisboa, Lisboa, Portugal
 
 ## Idiomas
 
-- Inglês (Avançado)
+- Português (Nativo)
+- Inglês (Fluente)
 
 ---
 
 ## Certificações
 
-- Orientação a Objetos com Java
-- Docker: Criando containers sem dor de cabeça
-- Princípios de Desenvolvimento Ágil de Software
-- SCRUM Foundation Professional Certificate (SFPC)
-- KMP I e II
+- Management 3.0 - 2019
+- Kanban Management Professional (KMP) I e II - Aspercom 2019
+- SCRUM Foundation Professional Certificate (SFPC) - Certiprof - 2019
+- Docker: Criando containers sem dor de cabeça - [Alura](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fcursos.alura.com.br%2Fuser%2Fmarcelobattaglion%2Fcourse%2Fdocker%2Fcertificate&urlhash=15Oz&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B8zx9nHe8RpewHQ7pK0%2BGoQ%3D%3D) (2016)
+- Princípios de Desenvolvimento Ágil de Software - [Coursera](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fverify%2F57W9K3TYBCYT&urlhash=8mIo&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B8zx9nHe8RpewHQ7pK0%2BGoQ%3D%3D) - 2017
+- Desenvolvimento Ágil com Java avançado - [Coursera](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fverify%2FFXP4ZUCPQPGP&urlhash=cv5X&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B8zx9nHe8RpewHQ7pK0%2BGoQ%3D%3D) - 2016
+- Desenvolvimento de software guia por testes - [Coursera](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fverify%2FVN5DSFBM2Y3D&urlhash=Rz82&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B8zx9nHe8RpewHQ7pK0%2BGoQ%3D%3D) - 2016
+- Orientação a objetos com Java - [Coursera](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fverify%2FNUJ4CNH6S7WN&urlhash=9_Zi&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B8zx9nHe8RpewHQ7pK0%2BGoQ%3D%3D) - 2016
 
 ---
 
 ## Resumo
 
 Como muitos, o início foi num estágio onde fui efetivado após alguns meses, que considero ser a minha primeira escola,
-com a oportunidade de conhecer pessoas incríveis que ajudaram na minha formação profissional. Em todas as empresas por
-onde passei, aprendi coisas novas muito importantes para o meu crescimento profissional e amadurecimento pessoal. Sigo
+com a oportunidade de conhecer pessoas incríveis que ajudaram na minha formação profissional. Em todas as empresas que
+trabalhei tive aprendizados muito importantes para o meu crescimento profissional e amadurecimento pessoal. Sigo
 em constante aprendizado e carrego os valores de **TRANSPARÊNCIA** e **HUMILDADE** por onde passo.
 
-Hoje tenho a oportunidade de transmitir um pouco dos meus conhecimentos para recém-formados, o que faço com enorme
-prazer, seguindo o lema: “Seja para alguém, o super herói que você queria ser”. Gosto de compartilhar conhecimento e
+Hoje tenho a oportunidade de transmitir um pouco dos meus conhecimentos para colegas, o que faço com enorme
+prazer, seguindo o lema: “Seja para alguém, o herói que você queria ser”. Gosto de compartilhar conhecimento e
 contribuir para que o ambiente de trabalho seja o mais agradável possível, sempre com um sorriso no rosto e em busca de
 resultados.
 
@@ -146,7 +150,9 @@ Bancos de dados:
 
 **Analista de Sistemas** (dezembro de 2013 - dezembro de 2016, 3 anos 1 mês)
 
-- Atuação em análise e desenvolvimento de sistemas (detalhes não especificados no documento).
+- Atuação em análise e desenvolvimento de sistemas de aplicações existentes utilizando as linguagens PL/SQL, VB 6 e Crystal Reports.
+- Responsável pela manutenção das aplicações utilizando a linguagem Java (8), o framework Spring (Boot, Data, Web Services, Security, MVC), RabbitMQ, Ext JS, banco de dados Oracle e Docker.
+- Suporte em aplicações em PHP.
 
 ---
 
@@ -154,22 +160,22 @@ Bancos de dados:
 
 **Desenvolvedor** (janeiro de 2011 - novembro de 2013, 2 anos 11 meses)
 
-- Desenvolvimento de soluções para a empresa (detalhes não especificados no documento).
+- Criação de módulos personalizados a um aplicativo legado complexo existente utilizando a linguagem Oracle Forms/Reports.
+- Aprimoramento no portal da empresa para exibir vagas de emprego disponíveis e candidatura para as mesmas. 
+- Desenvolvemos novos módulos para um aplicativo voltado para advogados utilizando Java (6) e Primefaces.
 
 ---
 
 ### Exército Brasileiro – 5ª Circunscrição de Serviço Militar
 
 **Auxiliar Administrativo** (março de 2006 - março de 2011, 5 anos 1 mês)
-
 - Funções administrativas gerais de apoio à unidade.
 
 ---
 
 ## Formação Académica
 
-- Universidade Federal de São Carlos (UFSCar) – Pós-graduação em Desenvolvimento de Software para Web (Programação de
-  Computadores), 2013 - 2014
+- Universidade Federal de São Carlos (UFSCar) – Pós-graduação em Desenvolvimento de Software para Web, 2013 - 2014
 - Centro Universitário Claretiano – Bacharel em Sistemas de Informação, 2008 - 2011
 - Ateneu Barão de Mauá – Ensino Médio completo, 2002 - 2004
 - CNA – Inglês Avançado, 2010 - 2012 
