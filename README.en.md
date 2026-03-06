@@ -1,87 +1,83 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/marcelohb/marcelohb.github.io/blob/main/README.en.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/marcelohb/marcelohb.github.io/blob/main/README.pt-br.md)
-
 **Tech Lead - ACT Digital**  
-Lisboa, Portugal
+Lisbon, Portugal
 
 ---
 
-## Contato
+## Contact
 
-- Telefone: (+351) 911 918 449 (Mobile)
+- Phone: (+351) 911 918 449 (Mobile)
 - Email: marcelobattaglion@hotmail.com
 - LinkedIn: [https://www.linkedin.com/in/marcelobattaglion](https://www.linkedin.com/in/marcelobattaglion)
 
 ---
 
-## Principais Competências
+## Key Skills
 
-- Liderança técnica
-- Liderança em TI
+- Technical leadership
+- IT leadership
 - Java Spring Boot
 - Oracle
-- Microserviços
+- Microservices
 
 ---
 
-## Idiomas
+## Languages
 
-- Português (Nativo)
-- Inglês (Fluente)
+- Portuguese (Native)
+- English (Fluent)
 
 ---
 
-## Certificações
+## Certifications
 
-- Management 3.0 - 2019
-- Kanban Management Professional (KMP) I e II - Aspercom 2019
+- Management 3.0 - Jurgem Appelo - 2019
+- Kanban Management Professional (KMP) I and II - Aspercom 2019/2020
 - SCRUM Foundation Professional Certificate (SFPC) - Certiprof - 2019
-- Docker: Criando containers sem dor de cabeça - [Alura](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fcursos.alura.com.br%2Fuser%2Fmarcelobattaglion%2Fcourse%2Fdocker%2Fcertificate&urlhash=15Oz&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B8zx9nHe8RpewHQ7pK0%2BGoQ%3D%3D) (2016)
-- Princípios de Desenvolvimento Ágil de Software - [Coursera](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fverify%2F57W9K3TYBCYT&urlhash=8mIo&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B8zx9nHe8RpewHQ7pK0%2BGoQ%3D%3D) - 2017
-- Desenvolvimento Ágil com Java avançado - [Coursera](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fverify%2FFXP4ZUCPQPGP&urlhash=cv5X&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B8zx9nHe8RpewHQ7pK0%2BGoQ%3D%3D) - 2016
-- Desenvolvimento de software guia por testes - [Coursera](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fverify%2FVN5DSFBM2Y3D&urlhash=Rz82&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B8zx9nHe8RpewHQ7pK0%2BGoQ%3D%3D) - 2016
-- Orientação a objetos com Java - [Coursera](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fverify%2FNUJ4CNH6S7WN&urlhash=9_Zi&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B8zx9nHe8RpewHQ7pK0%2BGoQ%3D%3D) - 2016
+- Docker: Creating containers without headaches - [Alura](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fcursos.alura.com.br%2Fuser%2Fmarcelobattaglion%2Fcourse%2Fdocker%2Fcertificate&urlhash=15Oz&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B8zx9nHe8RpewHQ7pK0%2BGoQ%3D%3D) (2016)
+- Agile Software Development Principles - [Coursera](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fverify%2F57W9K3TYBCYT&urlhash=8mIo&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B8zx9nHe8RpewHQ7pK0%2BGoQ%3D%3D) - 2017
+- Agile Development with Advanced Java - [Coursera](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fverify%2FFXP4ZUCPQPGP&urlhash=cv5X&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B8zx9nHe8RpewHQ7pK0%2BGoQ%3D%3D) - 2016
+- Test-driven software development - [Coursera](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fverify%2FVN5DSFBM2Y3D&urlhash=Rz82&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B8zx9nHe8RpewHQ7pK0%2BGoQ%3D%3D) - 2016
+- Object-oriented programming with Java - [Coursera](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fverify%2FNUJ4CNH6S7WN&urlhash=9_Zi&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B8zx9nHe8RpewHQ7pK0%2BGoQ%3D%3D) - 2016
 
 ---
 
-## Resumo
+## Summary
 
-Como muitos, o início foi num estágio onde fui efetivado após alguns meses, que considero ser a minha primeira escola,
-com a oportunidade de conhecer pessoas incríveis que ajudaram na minha formação profissional. Em todas as empresas que
-trabalhei tive aprendizados muito importantes para o meu crescimento profissional e amadurecimento pessoal. Sigo
-em constante aprendizado e carrego os valores de **TRANSPARÊNCIA** e **HUMILDADE** por onde passo.
+Like many, my career began with an internship where I was hired after a few months, which I consider to be my first school,
+with the opportunity to meet incredible people who helped in my professional development. In all the companies that
+I've worked for, I've had very important learnings for my professional growth and personal maturity. I continue
+in constant learning and carry the values of **TRANSPARENCY** and **HUMILITY** wherever I go.
 
-Hoje tenho a oportunidade de transmitir um pouco dos meus conhecimentos para colegas, o que faço com enorme
-prazer, seguindo o lema: “Seja para alguém, o herói que você queria ser”. Gosto de compartilhar conhecimento e
+Today I have the opportunity to share some of my knowledge with colleagues, which I do with enormous
+pleasure, following the motto: “Seja para alguém, o herói que você queria ser”. Gosto de compartilhar conhecimento e
 contribuir para que o ambiente de trabalho seja o mais agradável possível, sempre com um sorriso no rosto e em busca de
 resultados.
 
 ---
 
-## Experiência Profissional
+## Professional Experience
 
-### act digital EMEA - Alter Solutions (atual)
+### act digital EMEA - Alter Solutions (current)
 
-#### Líder Técnico (março de 2022 - presente) – Lisboa (remoto)
+#### Technical Lead (March 2022 - present) – Lisbon (remote)
 
-- Sugerir e criar soluções para projeto com microserviços em Java (17 e 21), Spring (3.3.x) e Oracle (11g) para bases de
-  dados e filas.
-- Implementar DSL própria em Groovy (2.4).
-- Criar relatórios com JasperReports (6).
-- Monitorar aplicações com métricas providas pelo Actuator/Micrometer e Prometheus.
-- Atuar junto ao Product Owner na organização e priorização de demandas.
-- Apoiar a equipa no esclarecimento de dúvidas técnicas e de negócio.
-- Atuar em ambiente ágil utilizando _framework_ Scrum, preparar _sprint review_ e _retrospective_. Coletar métricas para melhoria contínua.
+- Suggest and create solutions for projects with microservices in Java (17 and 21), Spring (3.3.x) and Oracle (11g) for databases and queues.
+- Implement custom DSL in Groovy (2.4).
+- Create reports with JasperReports (6).
+- Monitor applications with metrics provided by Actuator/Micrometer and Prometheus.
+- Work with Product Owner in organizing and prioritizing demands.
+- Support the team in clarifying technical and business doubts.
+- Work in an agile environment using Scrum framework, prepare sprint review and retrospective. Collect metrics for continuous improvement.
 - Jenkins / Kubernets (Portainer)
 
-#### _Project Development Manager_ (setembro de 2021 - fevereiro de 2022, 6 meses) – Lisboa, Portugal
+#### Project Development Manager (September 2021 - February 2022, 6 months) – Lisbon, Portugal
 
-- Gerir demandas de entrega das equipas, prazos e custos do projeto.
-- Coordenar entregas entre diversas equipas, evitando conflitos e gerindo dependências.
-- Assegurar cumprimento do planeamento de entregas da empresa.
+- Manage team delivery demands, project deadlines and costs.
+- Coordinate deliveries between multiple teams, avoiding conflicts and managing dependencies.
+- Ensure compliance with the company's delivery planning.
 
-#### Desenvolvedor backend (maio de 2021 - fevereiro de 2022, 10 meses) – Lisboa, Portugal
-Desenvolver APIs utilizando Java (11,17) Spring Boot num ambiente de microserviços com comunicações REST.
+#### Backend Developer (May 2021 - February 2022, 10 months) – Lisbon, Portugal
+Develop APIs using Java (11,17) Spring Boot in a microservices environment with REST communications.
 - GoCD
 
 ---
