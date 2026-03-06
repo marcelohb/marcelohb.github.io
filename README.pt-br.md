@@ -17,9 +17,10 @@ Lisboa, Portugal
 ## Principais Competências
 
 - Liderança técnica
-- Liderança em TI
+- Liderança ágil em TI
+- Gestão de Projetos
 - Java Spring Boot
-- Oracle
+- Oracle / Postgres / Mysql
 - Microserviços
 
 ---

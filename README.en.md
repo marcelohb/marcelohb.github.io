@@ -17,9 +17,10 @@ Lisbon, Portugal
 ## Key Skills
 
 - Technical leadership
-- IT leadership
+- IT agile leadership
+- Project management
 - Java Spring Boot
-- Oracle
+- Oracle / Postgres / Mysql
 - Microservices
 
 ---
