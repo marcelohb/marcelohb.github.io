@@ -72,7 +72,7 @@ resultados.
 - Work with Product Owner in organizing and prioritizing demands.
 - Support the team in clarifying technical and business doubts.
 - Work in an agile environment using Scrum framework, prepare sprint review and retrospective. Collect metrics for continuous improvement.
-- Jenkins / Kubernets (Portainer)
+- Jenkins / Kubernetes (Portainer)
 
 #### Project Development Manager (September 2021 - February 2022, 6 months) – Lisbon, Portugal
 
@@ -86,40 +86,38 @@ Develop APIs using Java (11,17) Spring Boot in a microservices environment with 
 
 ---
 
-### Invillia (3 anos) – Brasil (remoto)
+### Invillia (3 anos) – Brazil (remoto)
 
-#### Agile Master | KMP | M3.0 (junho de 2019 - maio de 2021, 2 anos)
+#### Agile Master | KMP | M3.0 (June 2019 - May 2021, 2 years)
 
-- Promover e fomentar práticas para gerar resultados com entregas de valor e satisfação ao cliente, sempre alinhadas com os objetivos da companhia.
-- Utilização da metodologia Kanban na gestão das demandas.
-- Acompanhar processos e evoluir _performance_ do ambiente de trabalho com métricas de produtividade da equipa e de satisfação.
-  - Medição de _lead time_, CDF, _cicle time_, throughput e análise dos problemas com solução de causa raíz. 
-- Acompanhar e promover a evolução de cada membro da equipa, empoderando e criando ambiente seguro. Prática de _feedbacks_ curtos, individuais e coletivos para medir a evolução e definir novos objetivos.
+- Promote and foster practices to generate results with value delivery and customer satisfaction, always aligned with the company's objectives.
+- Use of the Kanban methodology in demand management.
+- Monitor processes and performance evolution in the work environment with team productivity and satisfaction metrics.
+  - Measurement of _lead time_, _CDF_, _cycle time_, _throughput_, and problem analysis with root cause analysis.
+- Monitor and promote the development of each team member, empowering them and creating a safe environment. Practice of short, individual and collective feedback sessions to measure progress and define new objectives.
 
-#### Java Software Developer (junho de 2018 - maio de 2019, 1 ano) – Brasil (remoto)
+#### Java Software Developer (June 2018 - May 2019, 1 year) – Brazil (remoto)
 
-- Desenvolvimento de soluções backend em Java (6,11,17) utilizando Spring Boot para criação de APIs REST responsável pela gestão de fretes.
+- Development of backend solutions in Java (6, 11, 17) using Spring Boot to create REST APIs responsible for freight management.
 - Jenkins
 
 ---
 
-### Beblue Brasil (1 ano 6 meses)
+### Beblue Brazil (1 year 6 months)
 
-#### Engenheiro de Software / Java Engineer (backend) (janeiro de 2017 - junho de 2018, 1 ano 6 meses) – Ribeirão Preto e região, Brasil
+#### Software Engineer / Java Engineer (backend) (January 2017 - June 2018, 1 year 6 months) – Ribeirão Preto, Brazil
 
-Responsabilidades principais:
+Main Responsibilities:
 
-- Desenvolver e evoluir funcionalidades de backend Beblue com foco em performance, disponibilidade e escalabilidade.
-- Projetar e desenvolver aplicações de alto volume e baixa latência para sistemas críticos, garantindo alta
-  disponibilidade e performance.
-- Contribuir em todas as fases do ciclo de desenvolvimento de software.
-- Escrever código bem estruturado, testável e eficiente.
-- Garantir que os designs estejam em conformidade com especificações.
-- Preparar e produzir releases de componentes de software.
-- Apoiar a melhoria contínua, investigando alternativas e tecnologias, apresentando-as para revisão de arquitetura.
+- Develop and evolve Beblue backend functionalities focusing on performance, availability, and scalability.
+- Design and develop high-volume, low-latency applications for critical systems, ensuring high availability and performance.
+- Contribute to all phases of the software development lifecycle.
+- Write well-structured, testable, and efficient code.
+- Ensure designs conform to specifications.
+- Prepare and produce software component releases.
+- Support continuous improvement by investigating alternatives and technologies, presenting them for architectural review.
 
-Principais tecnologias envolvidas (Java):
-
+Main technologies involved:
 - Java 8
 - Spring Framework, Spring Boot, Spring Data, Spring Web MVC, Spring Integration, Spring Security, Spring Cloud
 - Netflix OSS: Zuul (edge service/gateway), Eureka (service discovery), Ribbon (RPC), Hystrix (Circuit Breaker), Feign
@@ -129,16 +127,14 @@ Principais tecnologias envolvidas (Java):
 - Gradle
 - Git
 - REST
-- RabbitMQ
+- RabbitMQ / Kafka
 
-Automação:
-
+Automations:
 - Jenkins
 - Docker, Docker Compose
 - Nexus
-- Linux
 
-Bancos de dados:
+Databases:
 
 - Oracle
 - PostgreSQL
@@ -149,36 +145,37 @@ Bancos de dados:
 
 ---
 
-### HADRION SISTEMAS INTEGRADOS
+### HADRION SISTEMAS INTEGRADOS - Riberão Preto - Brazil
 
-**Analista de Sistemas** (dezembro de 2013 - dezembro de 2016, 3 anos 1 mês)
+**Systems Analyst** (December 2013 - December 2016, 3 years 1 month)
 
-- Atuação em análise e desenvolvimento de sistemas de aplicações existentes utilizando as linguagens PL/SQL, VB 6 e Crystal Reports.
-- Responsável pela manutenção das aplicações utilizando a linguagem Java (8), o framework Spring (Boot, Data, Web Services, Security, MVC), RabbitMQ, Ext JS, banco de dados Oracle e Docker.
-- Suporte em aplicações em PHP.
-
----
-
-### Pedra Agroindustrial S/A – Serrana
-
-**Desenvolvedor** (janeiro de 2011 - novembro de 2013, 2 anos 11 meses)
-
-- Criação de módulos personalizados a um aplicativo legado complexo existente utilizando a linguagem Oracle Forms/Reports.
-- Aprimoramento no portal da empresa para exibir vagas de emprego disponíveis e candidatura para as mesmas. 
-- Desenvolvemos novos módulos para um aplicativo voltado para advogados utilizando Java (6) e Primefaces.
+- Experience in analyzing and developing existing application systems using PL/SQL, VB 6, and Crystal Reports.
+- Responsible for maintaining applications using Java (8), the Spring framework (Boot, Data, Web Services, Security, MVC), RabbitMQ, Ext JS, Oracle database, and Docker.
+- Support for PHP applications.
 
 ---
 
-### Exército Brasileiro – 5ª Circunscrição de Serviço Militar
+### Pedra Agroindustrial S/A – Serrana - Brazil
 
-**Auxiliar Administrativo** (março de 2006 - março de 2011, 5 anos 1 mês)
-- Funções administrativas gerais de apoio à unidade.
+**Developer** (January 2011 - November 2013, 2 years 11 months)
+
+- Creation of custom modules for an existing complex legacy application using the Oracle Forms/Reports language.
+- Enhancement of the company portal to display available job openings and applications.
+- Development of new modules for an application aimed at lawyers using Java (6) and Primefaces.
 
 ---
 
-## Formação Académica
+### Brazilian Army – 5th Military Service District
 
-- Universidade Federal de São Carlos (UFSCar) – Pós-graduação em Desenvolvimento de Software para Web, 2013 - 2014
-- Centro Universitário Claretiano – Bacharel em Sistemas de Informação, 2008 - 2011
-- Ateneu Barão de Mauá – Ensino Médio completo, 2002 - 2004
-- CNA – Inglês Avançado, 2010 - 2012 
+**Administrative Assistant** (March 2006 - March 2011, 5 years 1 month)
+- General administrative support functions for the unit.
+- Responsible for creating and maintaining the institution's website.
+
+---
+
+## Academic Background
+
+- Federal University of São Carlos (UFSCar) – Postgraduate degree in Web Software Development, 2013-2014
+- Claretiano University Center – Bachelor's degree in Information Systems, 2008-2011
+- Ateneu Barão de Mauá – Completed High School, 2002-2004
+- CNA – Advanced English, 2010-2012

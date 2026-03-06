@@ -73,7 +73,7 @@ resultados.
 - Atuar junto ao Product Owner na organização e priorização de demandas.
 - Apoiar a equipa no esclarecimento de dúvidas técnicas e de negócio.
 - Atuar em ambiente ágil utilizando _framework_ Scrum, preparar _sprint review_ e _retrospective_. Coletar métricas para melhoria contínua.
-- Jenkins / Kubernets (Portainer)
+- Jenkins / Kubernetes (Portainer)
 
 #### _Project Development Manager_ (setembro de 2021 - fevereiro de 2022, 6 meses) – Lisboa, Portugal
 
@@ -119,7 +119,7 @@ Responsabilidades principais:
 - Preparar e produzir releases de componentes de software.
 - Apoiar a melhoria contínua, investigando alternativas e tecnologias, apresentando-as para revisão de arquitetura.
 
-Principais tecnologias envolvidas (Java):
+Principais tecnologias envolvidas:
 
 - Java 8
 - Spring Framework, Spring Boot, Spring Data, Spring Web MVC, Spring Integration, Spring Security, Spring Cloud
@@ -130,14 +130,13 @@ Principais tecnologias envolvidas (Java):
 - Gradle
 - Git
 - REST
-- RabbitMQ
+- RabbitMQ / Kafka
 
 Automação:
 
 - Jenkins
 - Docker, Docker Compose
 - Nexus
-- Linux
 
 Bancos de dados:
 
@@ -174,6 +173,7 @@ Bancos de dados:
 
 **Auxiliar Administrativo** (março de 2006 - março de 2011, 5 anos 1 mês)
 - Funções administrativas gerais de apoio à unidade.
+- Responsável por criar e manter o site da instituição
 
 ---
 
