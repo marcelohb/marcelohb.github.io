@@ -1,3 +1,6 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/marcelohb/marcelohb.github.io/blob/main/README.en.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/marcelohb/marcelohb.github.io/blob/main/README.pt-br.md)
+
 **Tech Lead - ACT Digital**  
 Lisboa, Portugal
 
