@@ -73,17 +73,18 @@ resultados.
 - Atuar junto ao Product Owner na organização e priorização de demandas.
 - Apoiar a equipa no esclarecimento de dúvidas técnicas e de negócio.
 - Atuar em ambiente ágil utilizando _framework_ Scrum, preparar _sprint review_ e _retrospective_. Coletar métricas para melhoria contínua.
-- Jenkins / Kubernetes (Portainer)
+- **Ferramentas**: `Git / SVN / Jenkins / Kubernetes (Portainer) / Grafana / Prometheus / Sonarqube`
 
 #### _Project Development Manager_ (setembro de 2021 - fevereiro de 2022, 6 meses) – Lisboa, Portugal
 
 - Gerir demandas de entrega das equipas, prazos e custos do projeto.
 - Coordenar entregas entre diversas equipas, evitando conflitos e gerindo dependências.
 - Assegurar cumprimento do planeamento de entregas da empresa.
+- **Ferramentas**: `Jira / Servicenow`
 
 #### Desenvolvedor backend (maio de 2021 - fevereiro de 2022, 10 meses) – Lisboa, Portugal
 Desenvolver APIs utilizando Java (11,17) Spring Boot num ambiente de microserviços com comunicações REST.
-- GoCD
+- **Ferramentas**: `GoCD / Intellij / Openshift / Git / Junit / Mockito / Postman`
 
 ---
 
@@ -100,7 +101,7 @@ Desenvolver APIs utilizando Java (11,17) Spring Boot num ambiente de microservi�
 #### Java Software Developer (junho de 2018 - maio de 2019, 1 ano) – Brasil (remoto)
 
 - Desenvolvimento de soluções backend em Java (6,11,17) utilizando Spring Boot para criação de APIs REST responsável pela gestão de fretes.
-- Jenkins
+- **Ferramentas**: `Git / Jenkins / Postman`
 
 ---
 
