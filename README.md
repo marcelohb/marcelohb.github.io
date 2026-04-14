@@ -18,13 +18,13 @@ Profissional de tecnologia com experiência em liderança técnica, desenvolvime
 
 ## Competências
 
-Liderança técnica | Gestão de equipas ágeis | Gestão de projetos  
-Java | Spring Boot | Spring Framework | Microserviços | APIs REST | Arquitetura de software | Groovy | Groovy DSL  
-Observabilidade | Prometheus | Micrometer | Actuator | RabbitMQ | Kafka  
-Kubernetes | Jenkins | Docker | Git | SVN | Maven | Gradle | SonarQube  
-Oracle | PostgreSQL | MySQL | SQL  
-JUnit | Mockito | Postman | TDD | DDD  
-Scrum | Kanban
+Liderança técnica , Gestão de equipas ágeis , Gestão de projetos  
+Java , Spring Boot , Spring Framework , Microserviços , APIs REST , Arquitetura de software , Groovy , Groovy DSL  
+Observabilidade , Prometheus , Micrometer , Actuator , RabbitMQ , Kafka  
+Kubernetes , Jenkins , Docker , Git , SVN , Maven , Gradle , SonarQube  
+Oracle , PostgreSQL , MySQL , SQL  
+JUnit , Mockito , Postman , TDD , DDD  
+Scrum , Kanban
 
 ## Idiomas
 
