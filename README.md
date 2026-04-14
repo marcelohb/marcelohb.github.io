@@ -2,39 +2,23 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/marcelohb/marcelohb.github.io/blob/main/README.en.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/marcelohb/marcelohb.github.io/blob/main/README.pt-br.md)
 
-
 **Tech Lead | Senior Backend Engineer | Agile Leader**  
 Lisboa, Portugal
-
-## Contacto
 
 - Telefone: (+351) 911 918 449
 - Email: marcelobattaglion@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/marcelobattaglion
 
-## Resumo Profissional
+#### Resumo Profissional
 
-Profissional de tecnologia com experiência em liderança técnica, desenvolvimento backend e gestão ágil de equipas. Atuação sólida com Java, Spring Boot, microserviços, APIs REST, observabilidade, bancos de dados relacionais e ambiente cloud. Experiência em modernização de sistemas legados, entrega de soluções escaláveis, melhoria de desempenho e apoio ao desenvolvimento de equipas multidisciplinares.
+Líder Técnico com experiência em Java 8/11/17/21 e Groovy, Spring Boot, microserviços, APIs REST, arquitetura de software, DDD, observabilidade, Prometheus, Micrometer, Actuator, CI/CD, Kubernetes, Docker, Jenkins, Git, SVN, Maven, Gradle, RabbitMQ, Kafka, bancos de dados relacionais como Oracle, Postgres, MySQL e NoSQL como Redis, Cassandra e MongoDB. Atuação em liderança técnica, gestão de equipas ágeis, modernização de sistemas legados, definição de soluções escaláveis, melhoria de desempenho e apoio ao desenvolvimento de equipas multidisciplinares em ambientes Scrum e Kanban.
+#### Idiomas
 
-## Competências
+- Inglês: Fluente. Português: Nativo
+### Experiência Profissional
 
-Liderança técnica , Gestão de equipas ágeis , Gestão de projetos  
-Java , Spring Boot , Spring Framework , Microserviços , APIs REST , Arquitetura de software , Groovy , Groovy DSL  
-Observabilidade , Prometheus , Micrometer , Actuator , RabbitMQ , Kafka  
-Kubernetes , Jenkins , Docker , Git , SVN , Maven , Gradle , SonarQube  
-Oracle , PostgreSQL , MySQL , SQL  
-JUnit , Mockito , Postman , TDD , DDD  
-Scrum , Kanban
-
-## Idiomas
-
-- Português: Nativo
-- Inglês: Fluente
-
-## Experiência Profissional
-
-### Act Digital EMEA / Alter Solutions
-**Tech Lead**  
+### Act Digital EMEA / Alter Solutions (Agrolab / Santander)
+**Tech Lead**
 Lisboa, Portugal | março de 2022 – presente
 
 **Desafio**
@@ -43,19 +27,16 @@ Lisboa, Portugal | março de 2022 – presente
 **Responsabilidades**
 - Sugerir e implementar soluções para projeto com microserviços em Java 17 e 21, Spring Boot 3.3.x, Oracle 11g e mensageria.
 - Implementar DSL própria em Groovy 2.4.
-- Criar relatórios com JasperReports 6.
+- Criar módulos de relatórios com JasperReports 6.
 - Monitorar aplicações com Actuator, Micrometer e Prometheus.
 - Atuar junto ao Product Owner na organização e priorização de demandas.
-- Apoiar a equipa no esclarecimento de dúvidas técnicas e de negócio.
-- Participar de cerimônias ágeis, como _sprint review_ e retrospective, promovendo melhoria contínua.
+- Apoiar a equipa no esclarecimento de dúvidas técnicas e de negócio, identificar deficiências e promover melhorias.
+- Realizar cerimônias ágeis, como _sprint review_ e _retrospective_, promovendo melhoria contínua.
 
 **Resultados**
 - Migração completa de 100% do projeto de Notas Fiscais.
-- Criação de novos modelos com reutilização dos modelos.
+- Criação de modelos de relatórios que permitem reutilização.
 - Melhoria de 95% no desempenho de processamento de regras.
-
-**Tecnologias**
-- Java 17/21, Spring Boot, Groovy, JasperReports, Oracle 11g, Actuator, Micrometer, Prometheus, Git, SVN, Jenkins, Kubernetes, Portainer, Grafana, SonarQube
 
 **Project Development Manager**  
 Lisboa, Portugal | setembro de 2021 – fevereiro de 2022
@@ -73,21 +54,15 @@ Lisboa, Portugal | setembro de 2021 – fevereiro de 2022
 - Redução de conflitos entre entregas dependentes.
 - Implantação de métricas de produtividade.
 
-**Tecnologias**
-- Jira, ServiceNow
-
 **Senior Backend Developer**  
 Lisboa, Portugal | maio de 2021 – fevereiro de 2022
 
 **Responsabilidades**
 - Desenvolver APIs em Java 11 e 17 com Spring Boot em ambiente de microserviços e integrações REST.
 
-**Tecnologias**
-- GoCD, IntelliJ, OpenShift, Git, JUnit, Mockito, Postman
-
 ---
 
-### Invillia
+### Invillia (PagBank)
 **Agile Master | KMP | M3.0**  
 Brasil (remoto) | junho de 2019 – maio de 2021
 
@@ -121,9 +96,6 @@ Brasil (remoto) | junho de 2018 – maio de 2019
 - Disponibilização de novo parceiro de entregas com maior agilidade que os Correios.
 - Remoção de 100% do fluxo de pagamento do sistema monólito.
 
-**Tecnologias**
-- Java, Spring Boot, Git, Jenkins, Postman
-
 ---
 
 ### Beblue Brasil
@@ -136,19 +108,8 @@ Ribeirão Preto, Brasil | janeiro de 2017 – junho de 2018
 **Responsabilidades**
 - Desenvolver e evoluir funcionalidades de backend com foco em desempenho, disponibilidade e escalabilidade.
 - Projetar aplicações de alto volume e baixa latência para sistemas críticos.
-- Participar de todas as fases do ciclo de desenvolvimento de software.
-- Criar código bem estruturado, testável e eficiente.
 - Desenvolver API de integração para parceiros da plataforma de PDV.
 - Integrar gateways de pagamento por SOAP.
-
-**Tecnologias**
-- Java 8, Spring Framework, Spring Boot, Spring Data, Spring Web MVC, Spring Integration, Spring Security, Spring Cloud
-- AWS, S3, RDS, API Gateway
-- Hibernate, Liquibase
-- JUnit, Mockito
-- Gradle, Git, REST, SOAP, RabbitMQ, Kafka
-- Jenkins, Docker, Docker Compose, Nexus
-- Oracle, PostgreSQL, MySQL, MongoDB, Cassandra, Redis
 
 **Resultados**
 - Criação de produto para integração com rede de retalho, permitindo cashback por produto e campanhas mais personalizadas.
@@ -159,10 +120,6 @@ Ribeirão Preto, Brasil | janeiro de 2017 – junho de 2018
 ### Hadrion Sistemas Integrados
 **Analista de Sistemas**  
 Ribeirão Preto, Brasil | dezembro de 2013 – dezembro de 2016
-
-**Desafios**
-- Criar módulo fiscal para geração de SPED.
-- Migrar aplicações para microserviços.
 
 **Responsabilidades**
 - Criar e manter módulos de geração de arquivos SPED, respeitando prazos legais.
@@ -181,9 +138,6 @@ Ribeirão Preto, Brasil | dezembro de 2013 – dezembro de 2016
 **Desenvolvedor**  
 Serrana, Brasil | janeiro de 2011 – novembro de 2013
 
-**Desafio**
-- Criar módulo de gestão de processos para advogados.
-
 **Responsabilidades**
 - Criar e manter módulos personalizados para as áreas contábil, jurídica e fiscal com Oracle Forms/Reports.
 - Melhorar o portal da empresa para exibição de vagas de emprego e candidatura.
@@ -192,7 +146,7 @@ Serrana, Brasil | janeiro de 2011 – novembro de 2013
 **Resultados**
 - Entrega da fase inicial do projeto de gestão de processos, aumentando a visibilidade dos processos jurídicos e acompanhamento dos mesmos.
 
-## Certificações
+#### Certificações
 
 - Management 3.0, 2019
 - Kanban Management Professional (KMP), Aspercom, 2019
@@ -203,7 +157,7 @@ Serrana, Brasil | janeiro de 2011 – novembro de 2013
 - Desenvolvimento de Software Guiado por Testes, Coursera, 2016
 - Orientação a Objetos com Java, Coursera, 2016
 
-## Formação Acadêmica
+#### Formação Académica
 
 - Pós-graduação em Desenvolvimento de Software para Web, Universidade Federal de São Carlos (UFSCar), 2013 – 2014
 - Bacharel em Sistemas de Informação, Centro Universitário Claretiano, 2008 – 2011
