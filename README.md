@@ -1,268 +1,211 @@
+# Marcelo Henrique Battaglion
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/marcelohb/marcelohb.github.io/blob/main/README.en.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/marcelohb/marcelohb.github.io/blob/main/README.pt-br.md)
 
-# Marcelo Henrique Battaglion
 
-**Tech Lead - ACT Digital**  
+**Tech Lead | Senior Backend Engineer | Agile Leader**  
 Lisboa, Portugal
 
----
+## Contacto
 
-## Contato
-
-- Telefone: (+351) 911 918 449 (Mobile)
+- Telefone: (+351) 911 918 449
 - Email: marcelobattaglion@hotmail.com
-- LinkedIn: [https://www.linkedin.com/in/marcelobattaglion](https://www.linkedin.com/in/marcelobattaglion)
+- LinkedIn: https://www.linkedin.com/in/marcelobattaglion
 
----
+## Resumo Profissional
 
-## Principais Competências
+Profissional de tecnologia com experiência em liderança técnica, desenvolvimento backend e gestão ágil de equipas. Atuação sólida com Java, Spring Boot, microserviços, APIs REST, observabilidade, bancos de dados relacionais e ambiente cloud. Experiência em modernização de sistemas legados, entrega de soluções escaláveis, melhoria de desempenho e apoio ao desenvolvimento de equipas multidisciplinares.
 
-- Liderança técnica
-- Liderança ágil em TI
-- Gestão de Projetos
-- Java Spring Boot
-- Oracle / Postgres / Mysql
-- Microserviços
+## Competências
 
----
+Liderança técnica | Gestão de equipas ágeis | Gestão de projetos  
+Java | Spring Boot | Spring Framework | Microserviços | APIs REST | Arquitetura de software | Groovy | Groovy DSL  
+Observabilidade | Prometheus | Micrometer | Actuator | RabbitMQ | Kafka  
+Kubernetes | Jenkins | Docker | Git | SVN | Maven | Gradle | SonarQube  
+Oracle | PostgreSQL | MySQL | SQL  
+JUnit | Mockito | Postman | TDD | DDD  
+Scrum | Kanban
 
 ## Idiomas
 
-- Português (Nativo)
-- Inglês (Fluente)
-
----
-
-## Certificações
-
-- Management 3.0 - 2019
-- Kanban Management Professional (KMP) I e II - Aspercom 2019
-- SCRUM Foundation Professional Certificate (SFPC) - Certiprof - 2019
-- Docker: Criando containers sem dor de
-  cabeça - [Alura](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fcursos.alura.com.br%2Fuser%2Fmarcelobattaglion%2Fcourse%2Fdocker%2Fcertificate&urlhash=15Oz&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B8zx9nHe8RpewHQ7pK0%2BGoQ%3D%3D) (
-    2016)
-- Princípios de Desenvolvimento Ágil de
-  Software - [Coursera](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fverify%2F57W9K3TYBCYT&urlhash=8mIo&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B8zx9nHe8RpewHQ7pK0%2BGoQ%3D%3D) -
-  2017
-- Desenvolvimento Ágil com Java
-  avançado - [Coursera](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fverify%2FFXP4ZUCPQPGP&urlhash=cv5X&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B8zx9nHe8RpewHQ7pK0%2BGoQ%3D%3D) -
-  2016
-- Desenvolvimento de software guia por
-  testes - [Coursera](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fverify%2FVN5DSFBM2Y3D&urlhash=Rz82&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B8zx9nHe8RpewHQ7pK0%2BGoQ%3D%3D) -
-  2016
-- Orientação a objetos com
-  Java - [Coursera](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fverify%2FNUJ4CNH6S7WN&urlhash=9_Zi&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B8zx9nHe8RpewHQ7pK0%2BGoQ%3D%3D) -
-  2016
-
----
-
-## Resumo
-
-Como muitos, o início foi num estágio onde fui efetivado após alguns meses, que considero ser a minha primeira escola,
-com a oportunidade de conhecer pessoas incríveis que ajudaram na minha formação profissional. Em todas as empresas que
-trabalhei tive aprendizados muito importantes para o meu crescimento profissional e amadurecimento pessoal. Sigo
-em constante aprendizado e carrego os valores de **TRANSPARÊNCIA** e **HUMILDADE** por onde passo.
-
-Hoje tenho a oportunidade de transmitir um pouco dos meus conhecimentos para colegas, o que faço com enorme
-prazer, seguindo o lema: “Seja para alguém, o herói que você queria ser”. Gosto de compartilhar conhecimento e
-contribuir para que o ambiente de trabalho seja o mais agradável possível, sempre com um sorriso no rosto e em busca de
-resultados.
-
----
+- Português: Nativo
+- Inglês: Fluente
 
 ## Experiência Profissional
 
-### Act Digital EMEA - Alter Solutions (atual)
+### Act Digital EMEA / Alter Solutions
+**Tech Lead**  
+Lisboa, Portugal | março de 2022 – presente
 
-#### Líder Técnico (março de 2022 - presente) – Lisboa (remoto)
+**Desafio**
+- Criar aplicações baseadas em microserviços compatíveis com o sistema legado, mantendo as regras de negócio existentes com melhorias de arquitetura e desempenho.
 
-#### Desafio:
-
-- Criar aplicações baseadas em microserviços que sejam compatíveis com o sistema legado, garantindo as mesmas lógicas
-  com ajuste e melhorias.
-
-#### Responsabilidades:
-
-- Sugerir e criar soluções para projeto com microserviços em Java (17 e 21), Spring (3.3.x) e Oracle (11g) para bases de
-  dados e também filas.
-- Implementar DSL própria em Groovy (2.4).
-- Criar relatórios com JasperReports (6).
-- Monitorar aplicações por meio de métricas providas pelo Actuator/Micrometer e Prometheus.
+**Responsabilidades**
+- Sugerir e implementar soluções para projeto com microserviços em Java 17 e 21, Spring Boot 3.3.x, Oracle 11g e mensageria.
+- Implementar DSL própria em Groovy 2.4.
+- Criar relatórios com JasperReports 6.
+- Monitorar aplicações com Actuator, Micrometer e Prometheus.
 - Atuar junto ao Product Owner na organização e priorização de demandas.
 - Apoiar a equipa no esclarecimento de dúvidas técnicas e de negócio.
-- Atuar em ambiente ágil utilizando _framework_ Scrum, preparar _sprint review_ e _retrospective_. Coletar métricas para
-  melhoria contínua.
+- Participar de cerimônias ágeis, como _sprint review_ e retrospective, promovendo melhoria contínua.
 
-#### Resultados:
+**Resultados**
+- Migração completa de 100% do projeto de Notas Fiscais.
+- Criação de novos modelos com reutilização dos modelos.
+- Melhoria de 95% no desempenho de processamento de regras.
 
-- Projeto de Notas Fiscais 100% migrado e criação de novos modelos graças a reutilização do template gerado
-- Melhoria de 95% na performance de processamento de regras
+**Tecnologias**
+- Java 17/21, Spring Boot, Groovy, JasperReports, Oracle 11g, Actuator, Micrometer, Prometheus, Git, SVN, Jenkins, Kubernetes, Portainer, Grafana, SonarQube
 
-#### Ferramentas: `Git | SVN | Jenkins | Kubernetes (Portainer) | Grafana | Prometheus | Sonarqube`
+**Project Development Manager**  
+Lisboa, Portugal | setembro de 2021 – fevereiro de 2022
 
-#### _Project Development Manager_ (setembro de 2021 - fevereiro de 2022, 6 meses) – Lisboa, Portugal
+**Desafio**
+- Reduzir conflitos e dependências entre entregas de projetos.
 
-#### Desafio:
-
-- Evitar conflitos e dependências nas entregas dos projetos
-
-#### Responsabilidade:
-
+**Responsabilidades**
 - Gerir demandas de entrega das equipas, prazos e custos dos projetos.
-- Coordenar entregas entre diversas equipas, evitar conflitos e gerir dependências.
+- Coordenar entregas entre diversas equipas.
+- Evitar conflitos e gerir dependências entre projetos.
 - Assegurar cumprimento do planeamento de entregas da empresa.
 
-#### Resultados:
+**Resultados**
+- Redução de conflitos entre entregas dependentes.
+- Implantação de métricas de produtividade.
 
-- Redução de reversão de entregas em conflito e/ou dependentes
-- Implantação de métricas de produtividade
-- **Ferramentas**: `Jira | Servicenow`
+**Tecnologias**
+- Jira, ServiceNow
 
-#### _Senior Backend Developer_ (maio de 2021 - fevereiro de 2022, 10 meses) – Lisboa, Portugal
+**Senior Backend Developer**  
+Lisboa, Portugal | maio de 2021 – fevereiro de 2022
 
-#### Responsabilidades:
+**Responsabilidades**
+- Desenvolver APIs em Java 11 e 17 com Spring Boot em ambiente de microserviços e integrações REST.
 
-- Desenvolver APIs utilizando Java (11,17) Spring Boot num ambiente de microserviços com comunicações REST.
-- **Ferramentas**: `GoCD | Intellij | Openshift | Git | Junit | Mockito | Postman`
+**Tecnologias**
+- GoCD, IntelliJ, OpenShift, Git, JUnit, Mockito, Postman
 
 ---
 
-### Invillia (3 anos) | Brasil (remoto)
+### Invillia
+**Agile Master | KMP | M3.0**  
+Brasil (remoto) | junho de 2019 – maio de 2021
 
-#### Agile Master | KMP | M3.0 (junho de 2019 - maio de 2021, 2 anos)
-
-#### Desafio:
-
+**Desafio**
 - Desenvolver a carreira dos liderados e promover melhorias nas entregas do produto.
 
-#### Responsabilidades:
+**Responsabilidades**
+- Promover práticas ágeis para geração de valor e satisfação do cliente.
+- Atuar com Kanban na gestão das demandas.
+- Acompanhar indicadores de produtividade e satisfação da equipa.
+- Medir lead time, CDF, cycle time, throughput e analisar causas raiz de problemas.
+- Realizar _feedbacks_ curtos, individuais e coletivos.
+- Participar da seleção de candidatos para a equipa.
 
-- Promover e fomentar práticas para gerar resultados com entregas de valor e satisfação ao cliente, sempre alinhadas com
-  os objetivos da companhia.
-- Utilização da metodologia Kanban na gestão das demandas.
-- Acompanhar processos e evoluir _performance_ do ambiente de trabalho com métricas de produtividade da equipa e de
-  satisfação.
-    - Medição de _lead time_, CDF, _cicle time_, throughput e análise dos problemas com solução de causa raíz.
-- Acompanhar e promover a evolução de cada membro da equipa. Práticar _feedbacks_ curtos, individuais e coletivos para
-  medir a evolução e definir novos objetivos.
-- Participar de seleção de candidatos para a equipa.
+**Resultados**
+- Promoção de 2 membros da equipa com base nas métricas do plano de desenvolvimento individual.
 
-#### Resultados:
+**Senior Java Software Engineer**  
+Brasil (remoto) | junho de 2018 – maio de 2019
 
-- Promoção de 2 membros da equipa baseado nas métricas do plano de desenvolvimento individual.
+**Desafios**
+- Expandir o produto com novas funcionalidades para oferecer mais opções de compra ao cliente.
+- Evoluir o sistema monolítico para melhorar desempenho e escalabilidade.
 
-#### _Senior Java Software Engineer_ (junho de 2018 - maio de 2019, 1 ano) | Brasil (remoto)
+**Responsabilidades**
+- Desenvolver soluções backend em Java 6, 11 e 17 com Spring Boot para APIs REST voltadas à gestão de fretes.
+- Integrar novos parceiros de transporte para ampliar opções de compra.
+- Criar funcionalidades em microserviços alinhadas às demandas do monólito.
 
-#### Desafios:
+**Resultados**
+- Disponibilização de novo parceiro de entregas com maior agilidade que os Correios.
+- Remoção de 100% do fluxo de pagamento do sistema monólito.
 
-- Expandir o produto com novas funcionalidades que ofereça mais opções de compra para o cliente.
-- Retirar sistema do monólito para aprimorar a performance e escalabilidade.
-
-#### Responsabilidade:
-
-- Desenvolver soluções backend em Java (6,11,17) utilizando Spring Boot para criação de APIs REST responsável pela
-  gestão de fretes.
-- Integrar novos parceiros de transportes para ofertar mais opções de compra aos usuários (Intelipost)
-- Criar funcionalidades nos microserviços que correspondam às demandas do monólito.
-
-#### Resultados:
-
-- Disponibilização de um novo parceiro para entregas que possibilita a entrega mais rápida do que correios.
-- Remoção de 100% do fluxo de pagamento do sistema monólito
-- **Ferramentas**: `Git | Jenkins | Postman`
+**Tecnologias**
+- Java, Spring Boot, Git, Jenkins, Postman
 
 ---
 
-### Beblue Brasil (1 ano 6 meses)
+### Beblue Brasil
+**Engenheiro de Software Java**  
+Ribeirão Preto, Brasil | janeiro de 2017 – junho de 2018
 
-#### Engenheiro de Software Java (janeiro de 2017 - junho de 2018, 1 ano 6 meses) | Ribeirão Preto, Brasil
+**Desafios**
+- Criar e integrar produtos que aumentassem o volume de transações e o cashback dos utilizadores.
 
-#### Desafios:
+**Responsabilidades**
+- Desenvolver e evoluir funcionalidades de backend com foco em desempenho, disponibilidade e escalabilidade.
+- Projetar aplicações de alto volume e baixa latência para sistemas críticos.
+- Participar de todas as fases do ciclo de desenvolvimento de software.
+- Criar código bem estruturado, testável e eficiente.
+- Desenvolver API de integração para parceiros da plataforma de PDV.
+- Integrar gateways de pagamento por SOAP.
 
-- Criar e integrar produtos que aumentem o volume de transações realizadas e consequentemente o cashback para os
-  utilizadores.
+**Tecnologias**
+- Java 8, Spring Framework, Spring Boot, Spring Data, Spring Web MVC, Spring Integration, Spring Security, Spring Cloud
+- AWS, S3, RDS, API Gateway
+- Hibernate, Liquibase
+- JUnit, Mockito
+- Gradle, Git, REST, SOAP, RabbitMQ, Kafka
+- Jenkins, Docker, Docker Compose, Nexus
+- Oracle, PostgreSQL, MySQL, MongoDB, Cassandra, Redis
 
-#### Responsabilidades:
-
-- Desenvolver e evoluir funcionalidades de backend com foco em performance, disponibilidade e escalabilidade.
-- Projetar e desenvolver aplicações de alto volume e baixa latência para sistemas críticos, garantindo alta
-  disponibilidade e performance.
-- Contribuir em todas as fases do ciclo de desenvolvimento de software.
-- Escrever código bem estruturado, testável e eficiente.
-- Criar API de integração para parceiros integrarem à plataforma de PDV.
-- Integrar com gateways de pagamento utilizando conexões SOAP
-
-Principais tecnologias envolvidas:
-
-- Java 8 | Spring Framework | Spring Boot | Spring Data | Spring Web MVC | Spring Integration | Spring Security | Spring
-  Cloud
-- AWS | S3 | RDS | API Gateway |
-- Hibernate | Liquibase
-- JUnit | Mockito
-- Gradle | Git | REST | SOAP | RabbitMQ | Kafka
-- Jenkins | Docker | Docker Compose | Nexus
-- Oracle | PostgreSQL | MySQL | MongoDB | Cassandra | Redis
-
-#### Resultados:
-
-- Criação de um produto para integrar a uma rede de retalho onde cada compra gera um cashback específico por produto que
-  possibilitou a criação de campanhas de cashback mais personalizadas
-- Integração com a Mastercard
+**Resultados**
+- Criação de produto para integração com rede de retalho, permitindo cashback por produto e campanhas mais personalizadas.
+- Integração com a Mastercard.
 
 ---
 
-### HADRION SISTEMAS INTEGRADOS
+### Hadrion Sistemas Integrados
+**Analista de Sistemas**  
+Ribeirão Preto, Brasil | dezembro de 2013 – dezembro de 2016
 
-**Analista de Sistemas** (dezembro de 2013 - dezembro de 2016, 3 anos 1 mês) | Ribeirão Preto, Brasil
-
-#### Desafios:
-
-- Criação de um novo módulo fiscal de geração do SPED.
+**Desafios**
+- Criar módulo fiscal para geração de SPED.
 - Migrar aplicações para microserviços.
 
-#### Responsabilidades:
+**Responsabilidades**
+- Criar e manter módulos de geração de arquivos SPED, respeitando prazos legais.
+- Desenvolver aplicações em Java 8 com Spring Boot, Spring Data, Web Services, Security, MVC, RabbitMQ, Ext JS, Oracle e Docker.
+- Aplicar DDD no desenvolvimento de aplicações.
+- Utilizar TDD quando possível, com testes em JUnit.
+- Atuar em análise e desenvolvimento de sistemas legados com PL/SQL, VB6 e Crystal Reports.
+- Manter aplicações em PHP para gestão de documentos.
 
-- Criar e dar manutenção nos módulos de geração de arquivos SPED incluindo as atualizações no prazo legal.
-- Criar módulos de aplicações utilizando a linguagem Java (8), o framework Spring (Boot, Data, Web Services, Security,
-  MVC), RabbitMQ, Ext JS, banco de dados Oracle e Docker. Utilizar DDD no desenvolvimento das aplicações.
-- Aplicar TDD quando possível com a criação de testes em JUnit.
-- Atuar em análise e desenvolvimento de sistemas de aplicações existentes utilizando as linguagens PL/SQL, VB 6 e
-  Crystal Reports para manutenção de aplicações existentes.
-- Dar manutenção em aplicações em PHP responsáveis pela gestão de documentos.
-
-#### Resultados:
-
-- Criação de um módulo de geração de arquivos SPED no prazo legal determinado.
+**Resultados**
+- Criação de módulo de geração de arquivos SPED dentro do prazo legal.
 
 ---
 
 ### Pedra Agroindustrial S/A – Serrana
+**Desenvolvedor**  
+Serrana, Brasil | janeiro de 2011 – novembro de 2013
 
-**Desenvolvedor** (janeiro de 2011 - novembro de 2013, 2 anos 11 meses) | Serrana, Brasil
+**Desafio**
+- Criar módulo de gestão de processos para advogados.
 
-#### Desafios:
+**Responsabilidades**
+- Criar e manter módulos personalizados para as áreas contábil, jurídica e fiscal com Oracle Forms/Reports.
+- Melhorar o portal da empresa para exibição de vagas de emprego e candidatura.
+- Desenvolver novos módulos para aplicativo jurídico com Java 6 e PrimeFaces.
 
-- Criação de módulo de gestão de processos para advogados
+**Resultados**
+- Entrega da fase inicial do projeto de gestão de processos, aumentando a visibilidade dos processos jurídicos e acompanhamento dos mesmos.
 
-#### Responsabilidades:
+## Certificações
 
-- Criar e dar manutenção em módulos personalizados voltados para as áreas contábil, juridica e fiscal utilizando a
-  linguagem Oracle Forms/Reports.
-- Aprimorar o portal da empresa para exibir vagas de emprego disponíveis e candidatura para as mesmas com a linguagem
-  PHP.
-- Desenvolvemos novos módulos para um aplicativo voltado para advogados utilizando Java (6) e Primefaces.
+- Management 3.0, 2019
+- Kanban Management Professional (KMP), Aspercom, 2019
+- SCRUM Foundation Professional Certificate (SFPC), Certiprof, 2019
+- Docker: Criando containers sem dor de cabeça, Alura, 2016
+- Princípios de Desenvolvimento Ágil de Software, Coursera, 2017
+- Desenvolvimento Ágil com Java Avançado, Coursera, 2016
+- Desenvolvimento de Software Guiado por Testes, Coursera, 2016
+- Orientação a Objetos com Java, Coursera, 2016
 
-#### Resultados:
+## Formação Acadêmica
 
-- Entrega da fase inicial do projeto de gestão de processos o que permitiu maior visibilidade da quantidade de processos
-  jurídicos existentes e consequentemente o acompanhamento de cada um deles.
-
----
-
-## Formação Académica
-
-- Universidade Federal de São Carlos (UFSCar) – Pós-graduação em Desenvolvimento de Software para Web, 2013 - 2014
-- Centro Universitário Claretiano – Bacharel em Sistemas de Informação, 2008 - 2011
-- Ateneu Barão de Mauá – Ensino Médio completo, 2002 - 2004
-- CNA – Inglês Avançado, 2010 - 2012 
+- Pós-graduação em Desenvolvimento de Software para Web, Universidade Federal de São Carlos (UFSCar), 2013 – 2014
+- Bacharel em Sistemas de Informação, Centro Universitário Claretiano, 2008 – 2011
+- Ensino Médio completo, Ateneu Barão de Mauá, 2002 – 2004
+- Inglês Avançado, CNA, 2010 – 2012
