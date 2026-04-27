@@ -54,6 +54,7 @@ body {
     display: flex;
     align-items: center;
     gap: 30px;
+    flex: 1;
 }
 
 .profile-pic {
@@ -117,8 +118,8 @@ body {
 
 .lang-switcher {
     display: flex;
+    flex-direction: column;
     gap: 10px;
-    margin-bottom: 5px;
 }
 
 .lang-link {
