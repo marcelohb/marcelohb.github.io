@@ -3,8 +3,9 @@
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/marcelohb/marcelohb.github.io/blob/main/README.pt-br.md)
 
 **Tech Lead | Senior Backend Engineer | Agile Leader**  
-Lisboa, Portugal
+- Lisboa, Portugal
 
+#### Contacto
 - Telefone: (+351) 911 918 449
 - Email: marcelobattaglion@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/marcelobattaglion
@@ -12,6 +13,7 @@ Lisboa, Portugal
 #### Resumo Profissional
 
 Líder Técnico com experiência em Java 8/11/17/21 e Groovy, Spring Boot, microserviços, APIs REST, arquitetura de software, DDD, observabilidade, Prometheus, Micrometer, Actuator, CI/CD, Kubernetes, Docker, Jenkins, Git, SVN, Maven, Gradle, RabbitMQ, Kafka, bancos de dados relacionais como Oracle, Postgres, MySQL e NoSQL como Redis, Cassandra e MongoDB. Atuação em liderança técnica, gestão de equipas ágeis, modernização de sistemas legados, definição de soluções escaláveis, melhoria de desempenho e apoio ao desenvolvimento de equipas multidisciplinares em ambientes Scrum e Kanban.
+
 #### Idiomas
 
 - Inglês: Fluente. Português: Nativo
@@ -27,14 +29,14 @@ Lisboa, Portugal | março de 2022 – presente
 **Responsabilidades**
 - Sugerir e implementar soluções para projeto com microserviços em Java 17 e 21, Spring Boot 3.3.x, Oracle 11g e mensageria.
 - Implementar DSL própria em Groovy 2.4.
-- Criar módulos de relatórios com JasperReports 6.
+- Criar módulos de relatórios com JasperReports 6 para serem reutilizados.
 - Monitorar aplicações com Actuator, Micrometer e Prometheus.
 - Atuar junto ao Product Owner na organização e priorização de demandas.
 - Apoiar a equipa no esclarecimento de dúvidas técnicas e de negócio, identificar deficiências e promover melhorias.
 - Realizar cerimônias ágeis, como _sprint review_ e _retrospective_, promovendo melhoria contínua.
 
 **Resultados**
-- Migração completa de 100% do projeto de Notas Fiscais.
+- 100% do projeto de Notas Fiscais migrado para Java.
 - Criação de modelos de relatórios que permitem reutilização.
 - Melhoria de 95% no desempenho de processamento de regras.
 
@@ -94,7 +96,7 @@ Brasil (remoto) | junho de 2018 – maio de 2019
 
 **Resultados**
 - Disponibilização de novo parceiro de entregas com maior agilidade que os Correios.
-- Remoção de 100% do fluxo de pagamento do sistema monólito.
+- 100% do fluxo de pagamento removido do sistema monólito.
 
 ---
 
@@ -160,6 +162,5 @@ Serrana, Brasil | janeiro de 2011 – novembro de 2013
 #### Formação Académica
 
 - Pós-graduação em Desenvolvimento de Software para Web, Universidade Federal de São Carlos (UFSCar), 2013 – 2014
-- Bacharel em Sistemas de Informação, Centro Universitário Claretiano, 2008 – 2011
-- Ensino Médio completo, Ateneu Barão de Mauá, 2002 – 2004
+- Bacharelado em Sistemas de Informação, Centro Universitário Claretiano, 2008 – 2011
 - Inglês Avançado, CNA, 2010 – 2012
